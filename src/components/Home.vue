@@ -2,7 +2,7 @@
   <div class="container"> 
     <form>
       <fieldset>
-        <legend>Corona</legend>
+        <legend>Corona Tracker</legend>
         <!-- <app-search @newDataset="results = $event"></app-search> -->
        
       </fieldset>
