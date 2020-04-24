@@ -12,6 +12,9 @@
             <app-result></app-result>  
       </div> 
     </div>
+    <div class="class col-md-12">
+      <div><img src="src/assets/COVID-19-banner_1303x323px.png" class="img-fluid" alt="Responsive image"></div>
+    </div>
   </div>
 
   
